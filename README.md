@@ -190,19 +190,19 @@ title('Frequency Response of FIR BSF using Rectangular Window');
 ```
 ### OUTPUT
 #### a. Design of Low Pass FIR Digital filter
-<img width="414" height="406" alt="image" src="https://github.com/user-attachments/assets/611cb982-5f11-4ce6-8e7a-e34052a47bb2" />
+<img width="384" height="406" alt="image" src="https://github.com/user-attachments/assets/611cb982-5f11-4ce6-8e7a-e34052a47bb2" />
 
 <img width="446" height="414" alt="image" src="https://github.com/user-attachments/assets/40c4fd09-85ee-46e3-a6da-fb1baddd4ca8" />
 
 #### b. Design of High Pass FIR Digital filter
 
-<img width="402" height="416" alt="image" src="https://github.com/user-attachments/assets/f09f4dfe-f284-431c-8d31-4a370f7fa7ef" />
+<img width="382" height="416" alt="image" src="https://github.com/user-attachments/assets/f09f4dfe-f284-431c-8d31-4a370f7fa7ef" />
 
 <img width="448" height="422" alt="image" src="https://github.com/user-attachments/assets/cde9c54f-ac8f-4647-88b1-f5d495da939b" />
 
 #### c. Design of Band Pass FIR Digital filter
 
-<img width="400" height="456" alt="image" src="https://github.com/user-attachments/assets/eaa3a8e4-a9c3-4169-bfe2-d7c3e913e5f5" />
+<img width="380" height="456" alt="image" src="https://github.com/user-attachments/assets/eaa3a8e4-a9c3-4169-bfe2-d7c3e913e5f5" />
 
 <img width="435" height="450" alt="image" src="https://github.com/user-attachments/assets/48449795-d5e8-415f-8b31-0c9991632afc" />
 
